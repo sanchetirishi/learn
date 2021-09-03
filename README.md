@@ -1,0 +1,5 @@
+# Learnamize
+
+In recent years, the demand for virtual learning infrastructure has sky-rocketed. As we all know, the coronavirus pandemic has shut down many essential services, education being one of them. Not only that but a year before the pandemic, the provincial government of Ontario announced a plan to make e-learning a bigger part of the province's education system. However, this has come with many problems, especially as it relates to students receiving after school virtual help. Learnamize is an application that manages a list of teachers and a queue of students during an extra help session, and instantly matches a suitable instructor with a student. To make the matching as effective as possible, students and teachers each enter the grade that they are in or the grade that they teach, to only match students with teachers that will be able to offer extra help. In addition, to make the waiting as fair as possible, students who join earliest will be matched with an instructor first. 
+
+View Project: https://devpost.com/software/learnamize
